@@ -1,0 +1,24 @@
+{
+  "name": "business_two",
+  "version": "1.0.0",
+  "description": "AUTHENTICITI Test Assessment : Paresh Gehlot",
+  "main": "business_two.js",
+  "scripts": {
+    "start": "node business_two.js",
+    "dev": "nodemon business_two.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "MicroServices"
+  ],
+  "author": "Paresh Gehlot",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
