@@ -2,9 +2,12 @@
 
 # Installation
 
-git clone https://github.com/pareshgehlot/authenticiti.git
+git clone https://github.com/pareshgehlot/business_one.git
+
 cd authenticiti
+
 npm install
+
 npm start
 
 # Configurations
