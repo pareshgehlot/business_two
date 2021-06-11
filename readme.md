@@ -2,7 +2,7 @@
 
 # Installation
 
-git clone https://github.com/pareshgehlot/business_one.git
+git clone https://github.com/pareshgehlot/business_two.git
 
 cd authenticiti
 
