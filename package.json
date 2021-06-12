@@ -4,7 +4,7 @@
   "description": "AUTHENTICITI Test Assessment : Paresh Gehlot",
   "main": "business_two.js",
   "scripts": {
-    "start": "node business_two.js",
+    "start": "pm2 start business_two.js",
     "dev": "nodemon business_two.js"
   },
   "keywords": [
